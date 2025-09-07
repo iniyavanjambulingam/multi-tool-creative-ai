@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "A multi-tool creative application powered by the Gemini API. Edit images, generate storybooks, design posters, and create memes all in one place.",
+  "requestFramePermissions": []
+}
